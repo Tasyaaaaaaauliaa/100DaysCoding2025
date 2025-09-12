@@ -1,0 +1,25 @@
+package day5;
+
+public class Main {
+    
+    public static void main(String[] args) {
+        System.out.println("tipe data numerik bilangan bulat");
+        
+        byte a = 100;
+        System.out.println(a);
+        //rentang nilai byte : -128 sampai 127
+        
+        short b = 200;
+        System.out.println(b);
+        //rentang nilai short : -32.768 sampai 32.767
+        
+        int c = 300;
+        System.out.println(c);
+        //rentang nilai int : -2.147.483.648 sampai 2.147.483.647
+        
+        long d = 400;
+        System.out.println(d);
+        //rentang nilai long : -9.223.372.036.854.775.808 sampai 9.223.372.036.854.775.807.
+    }
+    
+}
