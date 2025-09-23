@@ -1,9 +1,8 @@
-package Day15;
+package day16;
 
 public class Main {
     
     public static void main(String[] args) {
-        
         double t = 18;
         double s = 5;
          
