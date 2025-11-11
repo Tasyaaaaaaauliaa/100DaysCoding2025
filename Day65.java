@@ -6,7 +6,6 @@ public class day65 {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Masukkan nilai: ");
         int n = scanner.nextInt();
-        scanner.close();
 
         long faktorial = 1;
         for (int i = 1; i <= n; i++) {
