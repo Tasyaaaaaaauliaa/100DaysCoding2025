@@ -5,7 +5,7 @@ public class day77 {
         // substring()
         System.out.println(str.substring(0)); 
         System.out.println(str.substring(6, 10));
-        // repl
+        // replace
         System.out.println(str.replace("tasya", "aul"));
         // trim()
         System.out.println(str.trim()); 
